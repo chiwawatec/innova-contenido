@@ -1,0 +1,149 @@
+[
+ {
+  "id": "cocina_l",
+  "modulo": "melamina",
+  "nombre": "Cocina en L",
+  "detalle": "Muebles bajos 2.40 + 1.20 m, reposteros 2.40 m y alacena",
+  "categoria": "Cocina"
+ },
+ {
+  "id": "kitchenette",
+  "modulo": "melamina",
+  "nombre": "Kitchenette",
+  "detalle": "Mueble bajo 1.20 m con cajón y repostero 1.20 m",
+  "categoria": "Cocina"
+ },
+ {
+  "id": "closet_3p",
+  "modulo": "melamina",
+  "nombre": "Closet 3 puertas",
+  "detalle": "1.80 × 2.40 m con colgador, cajones y repisas",
+  "categoria": "Dormitorio"
+ },
+ {
+  "id": "closet_corr",
+  "modulo": "melamina",
+  "nombre": "Closet corredizo",
+  "detalle": "2.40 × 2.40 m, dos hojas corredizas",
+  "categoria": "Dormitorio"
+ },
+ {
+  "id": "dormitorio",
+  "modulo": "melamina",
+  "nombre": "Dormitorio completo",
+  "detalle": "Closet 2.00 m, 2 veladores y cómoda",
+  "categoria": "Dormitorio"
+ },
+ {
+  "id": "vestidor",
+  "modulo": "melamina",
+  "nombre": "Vestidor abierto",
+  "detalle": "2.00 × 2.40 m sin puertas",
+  "categoria": "Dormitorio"
+ },
+ {
+  "id": "rack_tv",
+  "modulo": "melamina",
+  "nombre": "Centro de TV",
+  "detalle": "Rack 1.80 m con cajones + librero",
+  "categoria": "Sala"
+ },
+ {
+  "id": "zapatera",
+  "modulo": "melamina",
+  "nombre": "Zapatera de ingreso",
+  "detalle": "0.80 × 1.10 m, 2 puertas y 4 repisas",
+  "categoria": "Sala"
+ },
+ {
+  "id": "escritorio",
+  "modulo": "melamina",
+  "nombre": "Escritorio de estudio",
+  "detalle": "1.20 m con cajonera y librero alto",
+  "categoria": "Oficina"
+ },
+ {
+  "id": "oficina",
+  "modulo": "melamina",
+  "nombre": "Oficina",
+  "detalle": "Escritorio 1.40 m y archivador",
+  "categoria": "Oficina"
+ },
+ {
+  "id": "bano",
+  "modulo": "melamina",
+  "nombre": "Baño",
+  "detalle": "Mueble bajo lavatorio 0.80 m y botiquín",
+  "categoria": "Baño"
+ },
+ {
+  "id": "puertas_depa",
+  "modulo": "madera",
+  "nombre": "Puertas de departamento",
+  "detalle": "3 contraplacadas 0.80 × 2.10 m con marco, perilla y duco",
+  "categoria": "Puertas"
+ },
+ {
+  "id": "puerta_principal",
+  "modulo": "madera",
+  "nombre": "Puerta principal apanelada",
+  "detalle": "Cedro 0.95 × 2.20 m, 6 paneles, tinte y chapa 2 golpes",
+  "categoria": "Puertas"
+ },
+ {
+  "id": "marcos",
+  "modulo": "madera",
+  "nombre": "Marcos y contramarcos",
+  "detalle": "4 marcos de tornillo para vanos de 0.80 × 2.10 m",
+  "categoria": "Puertas"
+ },
+ {
+  "id": "closet_dorm",
+  "modulo": "madera",
+  "nombre": "Closet de dormitorio",
+  "detalle": "Triplay 18 mm 2.40 × 2.40 m, 4 puertas, cajones y barra",
+  "categoria": "Muebles"
+ },
+ {
+  "id": "closet_mdf",
+  "modulo": "madera",
+  "nombre": "Closet MDF al duco",
+  "detalle": "MDF 18 mm 1.80 × 2.40 m, 3 puertas",
+  "categoria": "Muebles"
+ },
+ {
+  "id": "cocina",
+  "modulo": "madera",
+  "nombre": "Muebles de cocina",
+  "detalle": "Bajo 2.40 m y repostero 2.40 m en MDF al duco",
+  "categoria": "Muebles"
+ },
+ {
+  "id": "tv",
+  "modulo": "madera",
+  "nombre": "Mueble de TV",
+  "detalle": "Cedro 1.80 × 0.55 m con cajones, laca",
+  "categoria": "Muebles"
+ },
+ {
+  "id": "piso",
+  "modulo": "madera",
+  "nombre": "Piso machihembrado",
+  "detalle": "Tornillo 4.00 × 3.50 m sobre durmientes, barniz",
+  "categoria": "Acabados"
+ },
+ {
+  "id": "cielo",
+  "modulo": "madera",
+  "nombre": "Cielo machihembrado",
+  "detalle": "Pino 4.00 × 3.00 m sobre listones, laca",
+  "categoria": "Acabados"
+ },
+ {
+  "id": "escalera",
+  "modulo": "madera",
+  "nombre": "Escalera de madera",
+  "detalle": "Tornillo, 0.90 m de paso, 2.70 m de altura, baranda",
+  "categoria": "Escaleras"
+ }
+]
